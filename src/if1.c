@@ -2,7 +2,7 @@
 int main() {
     int pontuacao = 85;
     char conceito;
-    if( pontuacao >= 80){ // primeira condição
+    if( pontuacao >= 90){ // primeira condição
         conceito = 'A';
     } else if( pontuacao >= 80){ // segunda condição, só avaliada se a primeira for falsa
         conceito = 'B';
